@@ -12,7 +12,7 @@ Soal 3: Lakukan migrasi database dengan menambahkan column age pada tabel actor 
 
 Jawaban :
 
-1. Jawaban Soal 1 terdapat di file seeding.js
+1. Jawaban Soal 1 terdapat di file seeding.sql
 2. Jawaban Soal 2 terdapat di file router.js
 3. Jawaban Soal 3 terdapat di folder migration/up.sql
 
